@@ -1,2 +1,2 @@
-# NexBotSourse
-NexBot template
+# NextBotSourse
+NextBot template
