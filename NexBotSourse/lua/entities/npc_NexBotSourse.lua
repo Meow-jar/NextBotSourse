@@ -1119,8 +1119,8 @@ end
 -- List the NPC as spawnable.
 --
 list.Set("NPC", "npc_NextBotSourse", {
-	Name = "Waguri Kaoruko",
+	Name = "NexBotSourse",
 	Class = "npc_NextBotSourse",
-	Category = "Anime Women",
+	Category = "NexBotSourse",
 	AdminOnly = false
 })
